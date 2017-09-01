@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "go": "registry:dt/go#1.6.0+20160620211513"
+  }
+}
